@@ -1,0 +1,17 @@
+0.6
+2018.2
+Jun 14 2018
+20:41:02
+C:/Users/shengkaiwen/Desktop/COA2/Simple_CPU_1.3/Simple_CPU/Simple_CPU.sim/sim_1/behav/xsim/glbl.v,1529022455,verilog,,,,glbl,,,,,,,,
+C:/Users/shengkaiwen/Desktop/COA2/Simple_CPU_1.3/Simple_CPU/Simple_CPU.srcs/sim_1/new/top_tb.v,1590649307,verilog,,,,top_tb,,,,,,,,
+C:/Users/shengkaiwen/Desktop/COA2/Simple_CPU_1.3/Simple_CPU/Simple_CPU.srcs/sources_1/new/ACC.v,1588162680,verilog,,C:/Users/shengkaiwen/Desktop/COA2/Simple_CPU_1.3/Simple_CPU/Simple_CPU.srcs/sources_1/new/ALU.v,,ACC,,,,,,,,
+C:/Users/shengkaiwen/Desktop/COA2/Simple_CPU_1.3/Simple_CPU/Simple_CPU.srcs/sources_1/new/ALU.v,1589723901,verilog,,C:/Users/shengkaiwen/Desktop/COA2/Simple_CPU_1.3/Simple_CPU/Simple_CPU.srcs/sources_1/new/BR.v,,ALU,,,,,,,,
+C:/Users/shengkaiwen/Desktop/COA2/Simple_CPU_1.3/Simple_CPU/Simple_CPU.srcs/sources_1/new/BR.v,1587632798,verilog,,C:/Users/shengkaiwen/Desktop/COA2/Simple_CPU_1.3/Simple_CPU/Simple_CPU.srcs/sources_1/new/CU.v,,BR,,,,,,,,
+C:/Users/shengkaiwen/Desktop/COA2/Simple_CPU_1.3/Simple_CPU/Simple_CPU.srcs/sources_1/new/CU.v,1590046984,verilog,,C:/Users/shengkaiwen/Desktop/COA2/Simple_CPU_1.3/Simple_CPU/Simple_CPU.srcs/sources_1/new/IR.v,,CU,,,,,,,,
+C:/Users/shengkaiwen/Desktop/COA2/Simple_CPU_1.3/Simple_CPU/Simple_CPU.srcs/sources_1/new/IR.v,1587989246,verilog,,C:/Users/shengkaiwen/Desktop/COA2/Simple_CPU_1.3/Simple_CPU/Simple_CPU.srcs/sources_1/new/MAR.v,,IR,,,,,,,,
+C:/Users/shengkaiwen/Desktop/COA2/Simple_CPU_1.3/Simple_CPU/Simple_CPU.srcs/sources_1/new/MAR.v,1586433738,verilog,,C:/Users/shengkaiwen/Desktop/COA2/Simple_CPU_1.3/Simple_CPU/Simple_CPU.srcs/sources_1/new/MBR.v,,MAR,,,,,,,,
+C:/Users/shengkaiwen/Desktop/COA2/Simple_CPU_1.3/Simple_CPU/Simple_CPU.srcs/sources_1/new/MBR.v,1588841859,verilog,,C:/Users/shengkaiwen/Desktop/COA2/Simple_CPU_1.3/Simple_CPU/Simple_CPU.srcs/sources_1/new/PC.v,,MBR,,,,,,,,
+C:/Users/shengkaiwen/Desktop/COA2/Simple_CPU_1.3/Simple_CPU/Simple_CPU.srcs/sources_1/new/PC.v,1587994569,verilog,,C:/Users/shengkaiwen/Desktop/COA2/Simple_CPU_1.3/Simple_CPU/Simple_CPU.srcs/sources_1/new/RAM.v,,PC,,,,,,,,
+C:/Users/shengkaiwen/Desktop/COA2/Simple_CPU_1.3/Simple_CPU/Simple_CPU.srcs/sources_1/new/RAM.v,1591252347,verilog,,C:/Users/shengkaiwen/Desktop/COA2/Simple_CPU_1.3/Simple_CPU/Simple_CPU.srcs/sources_1/new/display.v,,RAM,,,,,,,,
+C:/Users/shengkaiwen/Desktop/COA2/Simple_CPU_1.3/Simple_CPU/Simple_CPU.srcs/sources_1/new/display.v,1589378303,verilog,,C:/Users/shengkaiwen/Desktop/COA2/Simple_CPU_1.3/Simple_CPU/Simple_CPU.srcs/sources_1/new/top.v,,display,,,,,,,,
+C:/Users/shengkaiwen/Desktop/COA2/Simple_CPU_1.3/Simple_CPU/Simple_CPU.srcs/sources_1/new/top.v,1589377447,verilog,,C:/Users/shengkaiwen/Desktop/COA2/Simple_CPU_1.3/Simple_CPU/Simple_CPU.srcs/sim_1/new/top_tb.v,,top,,,,,,,,

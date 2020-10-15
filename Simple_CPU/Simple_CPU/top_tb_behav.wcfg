@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<wave_config>
+   <wave_state>
+   </wave_state>
+   <db_ref_list>
+      <db_ref path="top_tb_behav.wdb" id="1">
+         <top_modules>
+            <top_module name="glbl" />
+            <top_module name="top_tb" />
+         </top_modules>
+      </db_ref>
+   </db_ref_list>
+   <zoom_setting>
+      <ZoomStartTime time="24285400000fs"></ZoomStartTime>
+      <ZoomEndTime time="25102066667fs"></ZoomEndTime>
+      <Cursor1Time time="24802067000fs"></Cursor1Time>
+   </zoom_setting>
+   <column_width_setting>
+      <NameColumnWidth column_width="165"></NameColumnWidth>
+      <ValueColumnWidth column_width="115"></ValueColumnWidth>
+   </column_width_setting>
+   <WVObjectSize size="25" />
+   <wvobject fp_name="/top_tb/clk" type="logic">
+      <obj_property name="ElementShortName">clk</obj_property>
+      <obj_property name="ObjectShortName">clk</obj_property>
+   </wvobject>
+   <wvobject fp_name="/top_tb/rst" type="logic">
+      <obj_property name="ElementShortName">rst</obj_property>
+      <obj_property name="ObjectShortName">rst</obj_property>
+   </wvobject>
+   <wvobject fp_name="/top_tb/U/U1/IR" type="array">
+      <obj_property name="ElementShortName">IR[7:0]</obj_property>
+      <obj_property name="ObjectShortName">IR[7:0]</obj_property>
+      <obj_property name="Radix">HEXRADIX</obj_property>
+   </wvobject>
+   <wvobject fp_name="/top_tb/U/U8/ram[164]" type="array">
+      <obj_property name="ElementShortName">[164][15:0]</obj_property>
+      <obj_property name="ObjectShortName">[164][15:0]</obj_property>
+      <obj_property name="Radix">SIGNEDDECRADIX</obj_property>
+   </wvobject>
+   <wvobject fp_name="/top_tb/U/U1/step" type="array">
+      <obj_property name="ElementShortName">step[1:0]</obj_property>
+      <obj_property name="ObjectShortName">step[1:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/top_tb/U/U1/CAR" type="array">
+      <obj_property name="ElementShortName">CAR[7:0]</obj_property>
+      <obj_property name="ObjectShortName">CAR[7:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/top_tb/U/U1/CBR" type="array">
+      <obj_property name="ElementShortName">CBR[22:0]</obj_property>
+      <obj_property name="ObjectShortName">CBR[22:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/top_tb/U/U1/C" type="array">
+      <obj_property name="ElementShortName">C[18:0]</obj_property>
+      <obj_property name="ObjectShortName">C[18:0]</obj_property>
+      <obj_property name="Radix">HEXRADIX</obj_property>
+   </wvobject>
+   <wvobject fp_name="/top_tb/U/U2/ALU_output" type="array">
+      <obj_property name="ElementShortName">ALU_output[15:0]</obj_property>
+      <obj_property name="ObjectShortName">ALU_output[15:0]</obj_property>
+      <obj_property name="Radix">UNSIGNEDDECRADIX</obj_property>
+   </wvobject>
+   <wvobject fp_name="/top_tb/U/U7/PC_output" type="array">
+      <obj_property name="ElementShortName">PC_output[7:0]</obj_property>
+      <obj_property name="ObjectShortName">PC_output[7:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/top_tb/U/U8/RAM_output" type="array">
+      <obj_property name="ElementShortName">RAM_output[15:0]</obj_property>
+      <obj_property name="ObjectShortName">RAM_output[15:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/top_tb/U/U8/ram[5]" type="array">
+      <obj_property name="ElementShortName">[5][15:0]</obj_property>
+      <obj_property name="ObjectShortName">[5][15:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/top_tb/U/MAR_output" type="array">
+      <obj_property name="ElementShortName">MAR_output[7:0]</obj_property>
+      <obj_property name="ObjectShortName">MAR_output[7:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/top_tb/U/U5/C10" type="logic">
+      <obj_property name="ElementShortName">C10</obj_property>
+      <obj_property name="ObjectShortName">C10</obj_property>
+   </wvobject>
+   <wvobject fp_name="/top_tb/U/C[5]" type="logic">
+      <obj_property name="ElementShortName">[5]</obj_property>
+      <obj_property name="ObjectShortName">[5]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/top_tb/U/U3/MBR_ouput" type="array">
+      <obj_property name="ElementShortName">MBR_ouput[15:0]</obj_property>
+      <obj_property name="ObjectShortName">MBR_ouput[15:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/top_tb/U/U6/C3" type="logic">
+      <obj_property name="ElementShortName">C3</obj_property>
+      <obj_property name="ObjectShortName">C3</obj_property>
+   </wvobject>
+   <wvobject fp_name="/top_tb/U/U7/C6" type="logic">
+      <obj_property name="ElementShortName">C6</obj_property>
+      <obj_property name="ObjectShortName">C6</obj_property>
+   </wvobject>
+   <wvobject fp_name="/top_tb/U/U2/C16" type="logic">
+      <obj_property name="ElementShortName">C16</obj_property>
+      <obj_property name="ObjectShortName">C16</obj_property>
+   </wvobject>
+   <wvobject fp_name="/top_tb/U/U2/C8" type="logic">
+      <obj_property name="ElementShortName">C8</obj_property>
+      <obj_property name="ObjectShortName">C8</obj_property>
+   </wvobject>
+   <wvobject fp_name="/top_tb/U/U2/ALU_output" type="array">
+      <obj_property name="ElementShortName">ALU_output[15:0]</obj_property>
+      <obj_property name="ObjectShortName">ALU_output[15:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/top_tb/U/U2/ACC_output" type="array">
+      <obj_property name="ElementShortName">ACC_output[15:0]</obj_property>
+      <obj_property name="ObjectShortName">ACC_output[15:0]</obj_property>
+      <obj_property name="Radix">UNSIGNEDDECRADIX</obj_property>
+   </wvobject>
+   <wvobject fp_name="/top_tb/U/U3/BR_output" type="array">
+      <obj_property name="ElementShortName">BR_output[15:0]</obj_property>
+      <obj_property name="ObjectShortName">BR_output[15:0]</obj_property>
+      <obj_property name="Radix">SIGNEDDECRADIX</obj_property>
+   </wvobject>
+   <wvobject fp_name="/top_tb/U/U1/flag" type="array">
+      <obj_property name="ElementShortName">flag[2:0]</obj_property>
+      <obj_property name="ObjectShortName">flag[2:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/top_tb/U/U8/ram[163]" type="array">
+      <obj_property name="ElementShortName">[163][15:0]</obj_property>
+      <obj_property name="ObjectShortName">[163][15:0]</obj_property>
+      <obj_property name="Radix">SIGNEDDECRADIX</obj_property>
+   </wvobject>
+</wave_config>
